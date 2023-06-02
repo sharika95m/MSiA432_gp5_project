@@ -2,3 +2,6 @@
 *.csv
 *.zip
 *.h5
+*/random_search
+*/random_search_attractive
+*/random_search_bangs
