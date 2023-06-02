@@ -6,6 +6,5 @@ The dataset for this project has been obtained from Kaggle from the following li
 
 ## Potential use cases (Potentially subject to change):
 
-1. Classification (Attributes)
-2. Style transfer (paintings?)
-3. Generate faces (based on attributes
+1. Classification (Specific attributes outlined in the presentation)
+2. Style transfer
